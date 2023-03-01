@@ -1,0 +1,3 @@
+##gff-version 3
+AJYM02000017.1	minced:0.3.2	repeat_region	454377	454690	5	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCTGAAACTCGCCCTGTTCTTAAAGGGATTATGAC
+AJYM02000017.1	minced:0.3.2	repeat_region	456723	457165	7	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCTGAAACTCGCCCTGTTCTTAAAGGGATTA

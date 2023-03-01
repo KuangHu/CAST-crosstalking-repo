@@ -1,0 +1,2 @@
+##gff-version 3
+PYMG01000012.1	minced:0.3.2	repeat_region	116267	116535	5	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGAACAGCCGCATAGGCAGCTAAGAAA

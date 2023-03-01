@@ -1,0 +1,2 @@
+##gff-version 3
+CH902601.1	minced:0.3.2	repeat_region	229594	229739	3	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGAACCGCCGTATAGGCAGCTGAGA

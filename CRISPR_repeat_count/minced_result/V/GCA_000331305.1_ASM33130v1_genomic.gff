@@ -1,0 +1,14 @@
+##gff-version 3
+KB217478.1	minced:0.3.2	repeat_region	505441	506197	11	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTGCAATATTAAATAATCCCTTTAAGGGATTGAAAC
+KB217478.1	minced:0.3.2	repeat_region	1054924	1059804	66	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCCCTACTCGTTAGGGAAATTAATTGATTGGAAAC
+KB217478.1	minced:0.3.2	repeat_region	1434213	1434391	3	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTAAACTTTAAATAATCCCTTATAGGGATTGAAAC
+KB217478.1	minced:0.3.2	repeat_region	1434535	1434716	3	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TGTTTAAACTTTAAATAATCCCTTATAGGGATTGAAAC
+KB217478.1	minced:0.3.2	repeat_region	2188850	2189388	8	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTACAATTTCATTTACTCCCTAATAGGGATTGAAAC
+KB217478.1	minced:0.3.2	repeat_region	2202453	2204807	33	.	.	ID=CRISPR6;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTACAATTTCTCTTACTCCCTAATAGGGATTGAAAC
+KB217478.1	minced:0.3.2	repeat_region	3391601	3392800	17	.	.	ID=CRISPR7;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTATTAGGGATTATTGATAGTTTAAAC
+KB217478.1	minced:0.3.2	repeat_region	4094147	4094775	9	.	.	ID=CRISPR8;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTAAATATTACGAATCCCGTCTTCGGGACTGAAAC
+KB217481.1	minced:0.3.2	repeat_region	45666	45920	4	.	.	ID=CRISPR9;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CCCTTCCAATTGGGTCAAATTGGAATCATTGGAAACT
+KB217481.1	minced:0.3.2	repeat_region	49865	50554	10	.	.	ID=CRISPR10;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCTCCACTAACCATGTGGAGGCGCCTTAATGAAAAC
+KB217483.1	minced:0.3.2	repeat_region	713267	713869	9	.	.	ID=CRISPR11;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGCTGTAACCTAAGATGTCGCAAGGCGTTGAGCAG
+KB217483.1	minced:0.3.2	repeat_region	716112	716290	3	.	.	ID=CRISPR12;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGTTTGAACCTAAGATGCCGTAAGGCGTTGTCAAC
+KB217483.1	minced:0.3.2	repeat_region	721997	722469	7	.	.	ID=CRISPR13;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATAACCAACCCAGCTAGAGGTGGGTTGAAAG

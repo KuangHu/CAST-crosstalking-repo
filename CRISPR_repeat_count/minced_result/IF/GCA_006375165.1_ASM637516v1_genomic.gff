@@ -1,0 +1,2 @@
+##gff-version 3
+NNNP01000126.1	minced:0.3.2	repeat_region	279	1986	29	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TTTCTAAGCTGCCTGTGTGGCAGTTAAC

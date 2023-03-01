@@ -1,0 +1,14 @@
+##gff-version 3
+LAHJ01000009.1	minced:0.3.2	repeat_region	74115	75181	15	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTAATTCCGATTTAGAGCGATCGGTAAAG
+LAHJ01000125.1	minced:0.3.2	repeat_region	4887	8030	43	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCGTTGCCGGGTTTCATTTAATAGAAAG
+LAHJ01000125.1	minced:0.3.2	repeat_region	19464	21393	27	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTCAATTAAATGAAACCCGGCAACGGGATTGAAAC
+LAHJ01000149.1	minced:0.3.2	repeat_region	86	1630	22	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTCCGATTTTAAGCGATCGGTAAAG
+LAHJ01000016.1	minced:0.3.2	repeat_region	38383	39663	18	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAACACCCCTCCCAGCTAGAGGCGGGTTGAAAG
+LAHJ01000161.1	minced:0.3.2	repeat_region	14006	14479	7	.	.	ID=CRISPR6;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTAATTCAACTTCCGAAGAAGCTAAAAG
+LAHJ01000164.1	minced:0.3.2	repeat_region	2792	4068	18	.	.	ID=CRISPR7;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTAATTCCGATTTAGGGCGATCGGTAAAG
+LAHJ01000002.1	minced:0.3.2	repeat_region	94001	95688	24	.	.	ID=CRISPR8;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGATTTTAGTTAATTGCAAT
+LAHJ01000190.1	minced:0.3.2	repeat_region	5013	5428	6	.	.	ID=CRISPR9;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GCCGCTTCTCTTCTGAGAAGTGGAATTAATGGAAAC
+LAHJ01000023.1	minced:0.3.2	repeat_region	50468	50940	7	.	.	ID=CRISPR10;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGAGTAGATGAAATTTCAAT
+LAHJ01000028.1	minced:0.3.2	repeat_region	41492	42184	10	.	.	ID=CRISPR11;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTACCGATTCCCTCAAATCGGAATTAATGGAAAC
+LAHJ01000032.1	minced:0.3.2	repeat_region	17587	18988	20	.	.	ID=CRISPR12;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGATTAAGGAAAATTGTAAC
+LAHJ01000007.1	minced:0.3.2	repeat_region	57519	58522	14	.	.	ID=CRISPR13;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCTCCAATAACAATTTGGAGGCGAATTAATGGAAAC

@@ -1,0 +1,10 @@
+##gff-version 3
+CP030118.1	minced:0.3.2	repeat_region	785547	785953	6	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAACGCCCCTCGACGCTTGAGGCGGGTTGAAAG
+CP030118.1	minced:0.3.2	repeat_region	807648	810612	41	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTGAAATTTCTCTTACTCCCTATTAGGGATTGAAAC
+CP030118.1	minced:0.3.2	repeat_region	848557	850839	32	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGAGTAAGAGAAATTTCAAC
+CP030118.1	minced:0.3.2	repeat_region	1305207	1306116	13	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTCGAAATTTATCTTTCTCCCTATTAGGGATTGAAAC
+CP030118.1	minced:0.3.2	repeat_region	4839273	4840042	11	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATCCCTTTGCAGGGAAAGGGTTCTGTAAAG
+CP030118.1	minced:0.3.2	repeat_region	5102799	5103481	10	.	.	ID=CRISPR6;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTACAAACCCATTTCCCTGCAAAGGGATGGAAAC
+CP030118.1	minced:0.3.2	repeat_region	6230826	6231294	7	.	.	ID=CRISPR7;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTACAGAACCCTTTCCCTGCAAAGGGATGGAAAC
+CP030118.1	minced:0.3.2	repeat_region	6471927	6472914	14	.	.	ID=CRISPR8;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCCTTAACGGGGAATAAATAATTTCAAC
+CP030118.1	minced:0.3.2	repeat_region	7289695	7289949	4	.	.	ID=CRISPR9;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ACTTTCCACTACCTCTTCTCCGCAAGGAGATGGAAAC

@@ -1,0 +1,2 @@
+##gff-version 3
+LDOU01000026.1	minced:0.3.2	repeat_region	583	792	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TATCTCAACTGCCTATCCGGCAGGTCAC

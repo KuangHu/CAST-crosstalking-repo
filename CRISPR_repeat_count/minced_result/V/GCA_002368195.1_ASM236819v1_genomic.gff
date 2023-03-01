@@ -1,0 +1,14 @@
+##gff-version 3
+AP018178.1	minced:0.3.2	repeat_region	539193	539525	5	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTCAACCCACCCCTAGCCGGGATGGTTGTTGAAACT
+AP018178.1	minced:0.3.2	repeat_region	672217	672536	5	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTAGCAATACCTAATAATCCCTATCAGGGATTGAAAC
+AP018178.1	minced:0.3.2	repeat_region	833323	833645	5	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTGATAGGGATTATTGTTAATTGCAAT
+AP018178.1	minced:0.3.2	repeat_region	835841	836902	15	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTGATAGGGATTATTGTTAATTGCAAT
+AP018178.1	minced:0.3.2	repeat_region	963690	965040	19	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGATTTTAGTTAATTGCAAT
+AP018178.1	minced:0.3.2	repeat_region	1016818	1017436	9	.	.	ID=CRISPR6;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTTCAATTAATTACCCCTCACGGGGATGGAAAC
+AP018178.1	minced:0.3.2	repeat_region	1158701	1159030	5	.	.	ID=CRISPR7;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=AGTTTCAATACCCCTCACAGCTTGAGGCGGGTTGAAAG
+AP018178.1	minced:0.3.2	repeat_region	1851565	1851813	4	.	.	ID=CRISPR8;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CAAATAATTAAAATCCCTATTAGGGATTGAAAC
+AP018178.1	minced:0.3.2	repeat_region	2676255	2677803	22	.	.	ID=CRISPR9;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTGCAATTACAATTAATCCCTATTAGGGATTGAAAC
+AP018178.1	minced:0.3.2	repeat_region	6180859	6181112	4	.	.	ID=CRISPR10;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=AATTGCAATTAACTAAAATCCCTATCAGGGATTGAAAC
+AP018178.1	minced:0.3.2	repeat_region	6183316	6184236	13	.	.	ID=CRISPR11;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTGCAATTAACTAAAATCCCTATCAGGGATTGAAAC
+AP018178.1	minced:0.3.2	repeat_region	7623544	7624598	15	.	.	ID=CRISPR12;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGATTTTAATTAATTGCAAT
+AP018178.1	minced:0.3.2	repeat_region	8773418	8773796	6	.	.	ID=CRISPR13;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=AGTTTCAATCCCTAATAGGGATTA

@@ -1,0 +1,3 @@
+##gff-version 3
+LIXE01000015.1	minced:0.3.2	repeat_region	27044	27251	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATGATCAGCTACCTATTCGGCAGTACAC
+LIXE01000002.1	minced:0.3.2	repeat_region	405997	406900	13	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GGTAATCCGTGGTAAATGCCGCGGCCACATTGAAGC

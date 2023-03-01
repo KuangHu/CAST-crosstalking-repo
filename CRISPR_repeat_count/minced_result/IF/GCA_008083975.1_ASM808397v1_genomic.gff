@@ -1,0 +1,2 @@
+##gff-version 3
+VSHJ01000049.1	minced:0.3.2	repeat_region	131288	133415	36	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTCACTGCCGTACAGGCAGCTTAGAAA

@@ -1,0 +1,2 @@
+##gff-version 3
+QNVL01000001.1	minced:0.3.2	repeat_region	309541	309687	3	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TTCTTGGCTGCCTATTCGGCAGAACAC

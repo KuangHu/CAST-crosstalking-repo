@@ -1,0 +1,3 @@
+##gff-version 3
+PNCB01000015.1	minced:0.3.2	repeat_region	42810	43049	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TGCAAGGCTGAAGCCTTGCCTAC
+PNCB01000021.1	minced:0.3.2	repeat_region	12290	15977	62	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TTTCTAAGCTGCCTGTTCGGCAGTGAAG

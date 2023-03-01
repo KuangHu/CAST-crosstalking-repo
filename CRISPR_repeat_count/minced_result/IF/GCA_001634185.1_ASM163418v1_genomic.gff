@@ -1,0 +1,2 @@
+##gff-version 3
+LKQE01000031.1	minced:0.3.2	repeat_region	31584	31790	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGAACTGCCGAATAGGTAGCTGATAAT

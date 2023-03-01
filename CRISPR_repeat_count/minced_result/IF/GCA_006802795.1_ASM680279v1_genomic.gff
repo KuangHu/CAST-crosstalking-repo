@@ -1,0 +1,4 @@
+##gff-version 3
+VIPQ01000031.1	minced:0.3.2	repeat_region	4860	5068	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TTTCTTGGCTGCCTATTCGGCAGAACACA
+VIPQ01000043.1	minced:0.3.2	repeat_region	6236	9503	55	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTCACTGCCGCACAGGCAGCTTAGAAA
+VIPQ01000046.1	minced:0.3.2	repeat_region	5493	10442	83	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTCACTGCCGCACAGGCAGCTTAGAAA

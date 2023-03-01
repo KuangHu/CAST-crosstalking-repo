@@ -1,0 +1,14 @@
+##gff-version 3
+CP003659.1	minced:0.3.2	repeat_region	57665	59539	26	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTGCAATTTTCATTAATCCCTATTAGGGATTGAAAC
+CP003659.1	minced:0.3.2	repeat_region	739352	739766	6	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAACTACCATCCCGACTAGGGGTGGGTTGAAAG
+CP003659.1	minced:0.3.2	repeat_region	1761752	1763483	24	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGAGTAATAGAAATTGCAAT
+CP003659.1	minced:0.3.2	repeat_region	3250545	3251389	12	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTCAACCCGCCCCACTCCGGGAGGGGTGTTGAAAC
+CP003659.1	minced:0.3.2	repeat_region	4752371	4758593	84	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCCTTGCGGGGATTATTTATTTGGAAAC
+CP003659.1	minced:0.3.2	repeat_region	5001036	5003639	36	.	.	ID=CRISPR6;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAATCCCTAATAGGGATTATTTGAAATTTCAAC
+CP003659.1	minced:0.3.2	repeat_region	5738603	5740678	29	.	.	ID=CRISPR7;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=ATTGCAATTTCTATTACTCCCTATTAGGGATTGAAAC
+CP003659.1	minced:0.3.2	repeat_region	5832140	5832391	4	.	.	ID=CRISPR8;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTACAAACCCACTTCCCCGCAAGGGGATGGAAAC
+CP003660.1	minced:0.3.2	repeat_region	31583	34510	40	.	.	ID=CRISPR9;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCAGTCCCCTTGCGGGGATTAGTTATATCGAAAC
+CP003660.1	minced:0.3.2	repeat_region	57672	61179	48	.	.	ID=CRISPR10;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCGATATAACTAATCCCCGCAAGGGGACTGAAAC
+CP003660.1	minced:0.3.2	repeat_region	151821	154033	31	.	.	ID=CRISPR11;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTTAACTTCTTAGAAAGTTGAACTAATGGAAAC
+CP003662.1	minced:0.3.2	repeat_region	1994	2536	8	.	.	ID=CRISPR12;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATCCCCTTGCGGGGAAGTGGTTTTGTAAAG
+CP003662.1	minced:0.3.2	repeat_region	23460	25825	32	.	.	ID=CRISPR13;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTCAATTAATATCCCCAGCGAGTGGGAAT

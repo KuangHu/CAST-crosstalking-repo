@@ -1,0 +1,2 @@
+##gff-version 3
+AVPW01000022.1	minced:0.3.2	repeat_region	732419	733882	25	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TCTTTAAGCCACCAGTGAGGTGGATAAC

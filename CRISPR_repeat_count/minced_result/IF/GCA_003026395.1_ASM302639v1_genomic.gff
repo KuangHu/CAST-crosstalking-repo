@@ -1,0 +1,4 @@
+##gff-version 3
+PYOO01000001.1	minced:0.3.2	repeat_region	287678	288126	8	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGTACTGCCGAGTAGGCAACTGATAAC
+PYOO01000005.1	minced:0.3.2	repeat_region	3171	3678	9	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=TTTCTAAGCTGCCTGTGCGGCAGTGAAC
+PYOO01000005.1	minced:0.3.2	repeat_region	12499	14864	40	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTCACTGCCGCACAGGCAGCTTAGAAA

@@ -1,0 +1,6 @@
+##gff-version 3
+KB731324.1	minced:0.3.2	repeat_region	275921	276173	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTGCGATCAGCCTCCCACGAATAGGTGGGCTGAAAG
+KB731324.1	minced:0.3.2	repeat_region	4192535	4193091	8	.	.	ID=CRISPR2;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=CTTTCAATCGCCCCCTTGCCGCAAACCTGGATGAAAC
+KB731325.1	minced:0.3.2	repeat_region	50964	51362	6	.	.	ID=CRISPR3;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTCAATTGTGGTTCCCAACGAGTGAGAAC
+KB731325.1	minced:0.3.2	repeat_region	51768	53291	20	.	.	ID=CRISPR4;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTCAATTGTTTGCCCCCATCAATGGAGAC
+KB731325.1	minced:0.3.2	repeat_region	55413	58583	42	.	.	ID=CRISPR5;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTTTCCATTCAATTAATTGCCTCTATTAAAAGAGAC

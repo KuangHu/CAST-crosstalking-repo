@@ -1,0 +1,2 @@
+##gff-version 3
+KK070023.1	minced:0.3.2	repeat_region	1918128	1918335	4	.	.	ID=CRISPR1;rpt_type=direct;rpt_family=CRISPR;rpt_unit_seq=GTGAACTGCCGAGTAGGCAGCTGGAAAT
